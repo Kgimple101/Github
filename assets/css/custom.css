@@ -6,13 +6,12 @@
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
 #banner {
-  background-color: #9450f2;
+  background-image: url("../../images/Cover_Photo_resized3png.png");
   color: whitesmoke;
-  /* text-shadow: 1px 1px 15px #333; */
-  text-align: center;
+  text-shadow: 1px 1px 15px #333;
+  text-align:center;
   cursor: default;
-  padding: 10em 4em 9em 4em;
-}
+  padding: 22em 4em 9em 4em;}
 
 
 
